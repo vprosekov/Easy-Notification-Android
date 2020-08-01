@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Easy Notification</string>
+    <string name="notifTitle">Notification Title</string>
+    <string name="notifText">Notification Text</string>
+    <string name="admob_app_id">ca-app-pub-7645498020283300~7190359260</string>
+    <string name="interstial_ad_id">ca-app-pub-7645498020283300/1628693785</string>
+    <string name="test_ad_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>
